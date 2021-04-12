@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Tolani",
+      "phone": "08034334433",
+      "address": "2 ikota royale estate lagos"
+    },
+    {
+      "id": 3,
+      "name": "Tiaraoluwa",
+      "phone": "080232344",
+      "address": "Rd 5 Games village Abuja "
+    },
+    {
+      "name": "Aneesa",
+      "phone": "08087887782",
+      "address": "34 bolewa str",
+      "id": 4
+    }
+  ]
+}
